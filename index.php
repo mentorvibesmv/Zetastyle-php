@@ -6,7 +6,7 @@ $cats = categories();
 $subs = sub_categories();
 $allProducts = products();
 ?>
-<section class="hero">
+<!-- <section class="hero">
     <div class="hero-bg">
         <img src="https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=1800&q=90" alt="Premium clothing rail with tailored garments">
     </div>
@@ -19,7 +19,7 @@ $allProducts = products();
             <a class="btn btn-light" href="contact.php">Start Custom Order</a>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="section">
     <div class="container">
